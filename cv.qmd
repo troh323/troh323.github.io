@@ -1,0 +1,180 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download PDF version](cv.pdf){.btn .btn-outline-dark .btn-sm}
+
+## Education
+
+**Massachusetts Institute of Technology (MIT)**, Cambridge, MA
+<br>Ph.D. Candidate, Political Science, 2023--present
+<br>Fields: Comparative Politics, Political Methodology
+<br>Committee: Noah Nathan, Volha Charnysh, Naoki Egami, F. Daniel Hidalgo (Chair)
+
+**Seoul National University (SNU)**, Seoul, Korea
+<br>M.A., Political Science, 2022
+<br>B.A., Spanish (minor in Political Science), 2019 — *summa cum laude*, Highest Honors in Field
+
+**Universidad Nacional Autónoma de México (UNAM)**, México
+<br>Exchange Student, 2016
+
+## Research Interests
+
+State Development · Urban Slums · Identity Politics · Conflict & Violence · Causal Inference · Experiments · Measurement & Scaling · Community Detection
+
+## Working Papers
+
+**Spillover Effects of Ethnic Representation: Evidence from Peru**
+
+**Life Dissatisfaction and Native-Immigrant Divides** | with Syngjoo Choi and Yong Kyun Kim *(under review)*
+
+## Working Projects
+
+**Governing the Periphery: Spatial Fragmentation and Collective Action**
+
+**Targeting Hard-to-Reach Populations at Scale Using Automated Survey Bots via WhatsApp** | with F. Daniel Hidalgo
+
+## Research Affiliations
+
+::: {.cv-entry}
+**Pontificia Universidad Católica de Peru (PUCP)**, Lima, Peru [Summer 2026]{.year}
+<br>Visiting Researcher
+:::
+
+::: {.cv-entry}
+**MIT Global Diversity Lab (GDL)**, Cambridge, MA [2024--present]{.year}
+<br>Graduate Affiliate
+:::
+
+::: {.cv-entry}
+**Universidad de Ingeniería y Tecnología (UTEC)**, Lima, Peru [Summer 2024]{.year}
+<br>Visiting Researcher
+:::
+
+::: {.cv-entry}
+**SNU Experimental Political Science Lab**, Seoul, Korea [2023--2024]{.year}
+<br>Research Associate
+:::
+
+## Research Experience
+
+::: {.cv-entry}
+Research Assistance to Naoki Egami [Summer 2026]{.year}
+:::
+
+::: {.cv-entry}
+Research Assistance to F. Daniel Hidalgo [Fall 2025]{.year}
+:::
+
+::: {.cv-entry}
+Research Assistance to Noah Nathan [Summer 2024]{.year}
+:::
+
+## Teaching Experience
+
+::: {.cv-entry}
+**17.802 Quantitative Methods II: Causal Inference** [Spring 2026]{.year}
+<br>Teaching Assistance to Naoki Egami
+:::
+
+## Professional Experience
+
+::: {.cv-entry}
+**Sustainable IF (SUSIF)**, Seoul, Korea [2022--2023]{.year}
+<br>Data Analyst (non-resident), development consultancy
+:::
+
+::: {.cv-entry}
+**United Nations ECLAC**, Santiago, Chile [2019--2020]{.year}
+<br>Research Intern, Program Planning & Operations Division (DPPO)
+:::
+
+## Grants & Awards
+
+### Massachusetts Institute of Technology
+
+::: {.cv-entry}
+Political Methodology Lab (PML) Research Grant [2025]{.year}
+:::
+
+::: {.cv-entry}
+Departmental Graduate Research Grant [2024, 2025, 2026]{.year}
+:::
+
+::: {.cv-entry}
+Kenan Sahin Presidential Fellowship [2023--2024]{.year}
+:::
+
+### Seoul National University
+
+::: {.cv-entry}
+Graduate Field Research Grant [2021, 2022, 2023]{.year}
+:::
+
+::: {.cv-entry}
+Next Generation Fellowship in Fundamental Sciences [2021--2022]{.year}
+:::
+
+### External
+
+::: {.cv-entry}
+Institute for Humane Studies Fellowship [2026]{.year}
+:::
+
+::: {.cv-entry}
+Fulbright Graduate Study Grant (*declined*) [2022]{.year}
+:::
+
+::: {.cv-entry}
+Scholarship for Korea's Future Leaders [2019]{.year}
+:::
+
+::: {.cv-entry}
+Ministerial Award for Best Research Paper on Latin America [2018]{.year}
+:::
+
+## Conference Presentations & Talks
+
+::: {.cv-entry}
+Midwest Political Science Association (MPSA) [2022, 2026]{.year}
+:::
+
+::: {.cv-entry}
+International Political Science Association (IPSA) [2025]{.year}
+:::
+
+::: {.cv-entry}
+MIT Political Experimental Research Lab (PERL) [2024]{.year}
+:::
+
+::: {.cv-entry}
+SNU Experimental Political Science Working Group [2024]{.year}
+:::
+
+::: {.cv-entry}
+PUC-Chile Centro de Estudios Asiáticos [2019]{.year}
+:::
+
+## Service
+
+::: {.cv-entry}
+Organizer, MIT Latin America Working Group (LAWG) [2025--present]{.year}
+:::
+
+::: {.cv-entry}
+Graduate Assistant, MIT GDL Pathways Program [2025]{.year}
+:::
+
+::: {.cv-entry}
+Social Chair, Graduate Student Council [2024--2025]{.year}
+:::
+
+## Fieldwork
+
+Lima, Peru (2024) · Mexico City, Mexico (2026) · São Paulo, Brazil (2024)
+
+## Skills
+
+**Programming:** R, Python, LaTeX, QGIS, Qualtrics
+
+**Languages:** Korean (native), Spanish (fluent), Portuguese (intermediate)

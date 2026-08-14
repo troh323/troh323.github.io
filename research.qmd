@@ -1,0 +1,35 @@
+---
+title: "Research"
+---
+
+My research agenda spans state development, urban governance, identity politics, and political behavior. Methodologically, I combine causal inference, survey experiments, and computational tools for measurement and scaling.
+
+## Working Papers
+
+**Spillover Effects of Ethnic Representation: Evidence from Peru**
+
+<p class="paper-status">Working paper</p>
+
+**Life Dissatisfaction and Native-Immigrant Divides** | with Syngjoo Choi and Yong Kyun Kim
+
+<p class="paper-status">Under review</p>
+
+## Working Projects
+
+**Governing the Periphery: Spatial Fragmentation and Collective Action**
+
+**Targeting Hard-to-Reach Populations at Scale Using Automated Survey Bots via WhatsApp** | with F. Daniel Hidalgo
+
+## Conference Presentations & Talks
+
+| Conference / Venue | Year |
+|---|---|
+| Midwest Political Science Association (MPSA) | 2022, 2026 |
+| International Political Science Association (IPSA) | 2025 |
+| MIT Political Experimental Research Lab (PERL) | 2024 |
+| SNU Experimental Political Science Working Group | 2024 |
+| PUC-Chile Centro de Estudios Asiáticos | 2019 |
+
+## Fieldwork
+
+Lima, Peru (2024) · Mexico City, Mexico (2026) · São Paulo, Brazil (2024)

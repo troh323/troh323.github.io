@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Terrence Roh"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - icon: envelope
+        href: mailto:troh@mit.edu
+      - icon: github
+        href: https://github.com/troh
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=PLACEHOLDER
+
+  page-footer:
+    center: "&copy; 2026 Terrence Roh. Built with [Quarto](https://quarto.org/)."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

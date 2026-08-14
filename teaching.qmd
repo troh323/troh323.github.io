@@ -1,0 +1,14 @@
+---
+title: "Teaching"
+---
+
+## Teaching Assistant
+
+**17.802 Quantitative Methods II: Causal Inference** | MIT
+<br>Instructor: Naoki Egami | Spring 2026
+
+## Additional Training
+
+**Quantitative Methods Program** | ICPSR · *EITM Certificate* | Summer 2022
+
+**Data Science Bootcamp** | SNU Graduate School of Data Science | Winter 2020
