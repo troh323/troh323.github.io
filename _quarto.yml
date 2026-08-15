@@ -1,9 +1,12 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - CNAME
 
 website:
   title: "Terrence Roh"
+  favicon: favicon.png
   navbar:
     left:
       - href: index.qmd
