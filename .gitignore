@@ -1,1 +1,6 @@
+# macOS
+.DS_Store
+
+# Quarto build artifacts — CI renders these from source
 /.quarto/
+/_site/
