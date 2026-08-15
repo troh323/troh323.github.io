@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research agenda spans state development, urban governance, identity politics, and political behavior. Methodologically, I combine causal inference, survey experiments, and computational tools for measurement and scaling."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\nSpillover Effects of Ethnic Representation: Evidence from Peru\n\nWorking paper\n\nLife Dissatisfaction and Native-Immigrant Divides | with Syngjoo Choi and Yong Kyun Kim\n\nUnder review"
+  },
+  {
+    "objectID": "research.html#working-projects",
+    "href": "research.html#working-projects",
+    "title": "Research",
+    "section": "Working Projects",
+    "text": "Working Projects\nGoverning the Periphery: Spatial Fragmentation and Collective Action\nTargeting Hard-to-Reach Populations at Scale Using Automated Survey Bots via WhatsApp | with F. Daniel Hidalgo"
+  },
+  {
+    "objectID": "research.html#conference-presentations-talks",
+    "href": "research.html#conference-presentations-talks",
+    "title": "Research",
+    "section": "Conference Presentations & Talks",
+    "text": "Conference Presentations & Talks\n\n\n\nConference / Venue\nYear\n\n\n\n\nMidwest Political Science Association (MPSA)\n2022, 2026\n\n\nInternational Political Science Association (IPSA)\n2025\n\n\nMIT Political Experimental Research Lab (PERL)\n2024\n\n\nSNU Experimental Political Science Working Group\n2024\n\n\nPUC-Chile Centro de Estudios Asiáticos\n2019"
+  },
+  {
+    "objectID": "research.html#fieldwork",
+    "href": "research.html#fieldwork",
+    "title": "Research",
+    "section": "Fieldwork",
+    "text": "Fieldwork\nLima, Peru (2024) · Mexico City, Mexico (2026) · São Paulo, Brazil (2024)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Terrence Roh",
+    "section": "",
+    "text": "Terrence Roh\n\nPh.D. Candidate, Political Science | Massachusetts Institute of Technology\n\n\nI am a Ph.D. candidate in the Department of Political Science at the Massachusetts Institute of Technology (MIT). My research focuses on state development, urban slums, and identity politics in the Global South, with a methodological emphasis on causal inference, experiments, and measurement.\nI study how spatial fragmentation shapes collective action and governance in peripheral urban areas, and how ethnic representation produces spillover effects in diverse societies. My fieldwork spans Latin America, including Peru, Mexico, and Brazil.\nPrior to MIT, I earned my M.A. and B.A. from Seoul National University, and worked as a research intern at the United Nations ECLAC in Santiago, Chile.\n\n\n✉ troh[at]mit.edu 💻 GitHub 🎓 Google Scholar 👥 LinkedIn\n\n\nAffiliations: MIT Global Diversity Lab · MIT Latin America Working Group"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -98,41 +140,6 @@
     "text": "Skills\nProgramming: R, Python, LaTeX, QGIS, Qualtrics\nLanguages: Korean (native), Spanish (fluent), Portuguese (intermediate)"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research agenda spans state development, urban governance, identity politics, and political behavior. Methodologically, I combine causal inference, survey experiments, and computational tools for measurement and scaling."
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "Working Papers",
-    "text": "Working Papers\nSpillover Effects of Ethnic Representation: Evidence from Peru\n\nWorking paper\n\nLife Dissatisfaction and Native-Immigrant Divides | with Syngjoo Choi and Yong Kyun Kim\n\nUnder review"
-  },
-  {
-    "objectID": "research.html#working-projects",
-    "href": "research.html#working-projects",
-    "title": "Research",
-    "section": "Working Projects",
-    "text": "Working Projects\nGoverning the Periphery: Spatial Fragmentation and Collective Action\nTargeting Hard-to-Reach Populations at Scale Using Automated Survey Bots via WhatsApp | with F. Daniel Hidalgo"
-  },
-  {
-    "objectID": "research.html#conference-presentations-talks",
-    "href": "research.html#conference-presentations-talks",
-    "title": "Research",
-    "section": "Conference Presentations & Talks",
-    "text": "Conference Presentations & Talks\n\n\n\nConference / Venue\nYear\n\n\n\n\nMidwest Political Science Association (MPSA)\n2022, 2026\n\n\nInternational Political Science Association (IPSA)\n2025\n\n\nMIT Political Experimental Research Lab (PERL)\n2024\n\n\nSNU Experimental Political Science Working Group\n2024\n\n\nPUC-Chile Centro de Estudios Asiáticos\n2019"
-  },
-  {
-    "objectID": "research.html#fieldwork",
-    "href": "research.html#fieldwork",
-    "title": "Research",
-    "section": "Fieldwork",
-    "text": "Fieldwork\nLima, Peru (2024) · Mexico City, Mexico (2026) · São Paulo, Brazil (2024)"
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -152,12 +159,5 @@
     "title": "Teaching",
     "section": "Additional Training",
     "text": "Additional Training\nQuantitative Methods Program | ICPSR · EITM Certificate | Summer 2022\nData Science Bootcamp | SNU Graduate School of Data Science | Winter 2020"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Terrence Roh",
-    "section": "",
-    "text": "Terrence Roh\n\nPh.D. Candidate, Political Science | Massachusetts Institute of Technology\n\n\nI am a Ph.D. candidate in the Department of Political Science at the Massachusetts Institute of Technology (MIT). My research focuses on state development, urban slums, and identity politics in the Global South, with a methodological emphasis on causal inference, experiments, and measurement.\nI study how spatial fragmentation shapes collective action and governance in peripheral urban areas, and how ethnic representation produces spillover effects in diverse societies. My fieldwork spans Latin America, including Peru, Mexico, and Brazil.\nPrior to MIT, I earned my M.A. and B.A. from Seoul National University, and worked as a research intern at the United Nations ECLAC in Santiago, Chile.\n\n\n✉ troh[at]mit.edu 💻 GitHub 🎓 Google Scholar 👥 LinkedIn\n\n\nAffiliations: MIT Global Diversity Lab · MIT Latin America Working Group"
   }
 ]
