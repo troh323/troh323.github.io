@@ -10,10 +10,9 @@ page-layout: full
 ![](profile.png){.profile-photo fig-alt="Terrence Roh"}
 
 <div class="contact-links">
-<a href="mailto:troh@mit.edu" title="Email" aria-label="Email">&#9993;</a>
-<a href="https://github.com/troh" title="GitHub" aria-label="GitHub">&#128187;</a>
-<a href="https://polisci.mit.edu/people/terrence-roh" title="MIT Profile" aria-label="MIT Profile">&#127891;</a>
-<a href="https://www.linkedin.com/in/terrence-roh/" title="LinkedIn" aria-label="LinkedIn">&#128101;</a>
+<a href="mailto:troh@mit.edu" title="Email" aria-label="Email"><i class="bi bi-envelope"></i></a>
+<a href="https://github.com/troh" title="GitHub" aria-label="GitHub"><i class="bi bi-github"></i></a>
+<a href="https://polisci.mit.edu/people/terrence-roh" title="MIT Profile" aria-label="MIT Profile"><i class="bi bi-mortarboard"></i></a>
 </div>
 
 :::
