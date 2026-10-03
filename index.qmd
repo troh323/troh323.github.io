@@ -18,7 +18,7 @@ PhD Candidate, MIT Political Science
 ::: {.bio}
 I am a PhD candidate in the Department of Political Science at the Massachusetts Institute of Technology (MIT) with subfields in Comparative Politics and Political Methodology. My research focuses on urban politics, informal institutions and identity politics in Latin America, with a methodological emphasis on causal inference, network analysis and measurement \& scaling.
 
-My dissertation project investigates how neighborhood networks affect people's capacity for collective action in urban peripheries. I argue that when neighborhood networks are fragmented, measured by how localized residents' movements are, individuals are less capable of engaging in broader collective action, leading to inferior development outcomes. My empirical strategy combines real-world human mobility data, survey methods embedded in Facebook/WhatsApp and a field intervention. I draw insights from my fieldwork in Latin America's megacities including Lima, Mexico City, São Paulo and Rio de Janeiro. My work has been supported by MIT Center for International Studies (CIS) and the Institute for Humane Studies (IHS).
+My dissertation project investigates how neighborhood networks affect people's capacity for collective action in urban peripheries. I argue that the fragmentation of neighborhood networks, measured by how localized residents' movements are, impede individuals' capacity to engage in broader collective action, leading to the underprovision of local public goods. My empirical strategy combines real-world human mobility data, survey methods embedded in Facebook/WhatsApp and a field intervention. I draw insights from my fieldwork in Latin America's megacities including Lima, Mexico City, São Paulo and Rio de Janeiro. My work has been supported by MIT Center for International Studies (CIS) and the Institute for Humane Studies (IHS).
 
 Prior to joining MIT, I earned a BA in Spanish and MA in Political Science from Seoul National University. I worked as a research intern at the United Nations ECLAC in Santiago, Chile.
 :::
@@ -30,9 +30,6 @@ Prior to joining MIT, I earned a BA in Spanish and MA in Political Science from 
 <a href="https://www.linkedin.com/in/terrence-roh/">&#128101; LinkedIn</a>
 </div>
 
-::: {.affiliations}
-**Affiliations:** [MIT Global Diversity Lab](https://gdl.mit.edu/) · [MIT Latin America Working Group](https://polisci.mit.edu/)
-:::
 
 :::
 
