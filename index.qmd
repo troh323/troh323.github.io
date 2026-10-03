@@ -22,7 +22,7 @@ page-layout: full
 # Terrence Roh
 
 ::: {.subtitle}
-PhD Candidate, MIT Political Science
+PhD Candidate, MIT Political Science<br>
 Graduate Fellow, Global Diversity Lab
 :::
 
