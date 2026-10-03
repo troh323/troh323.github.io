@@ -5,7 +5,18 @@ page-layout: full
 
 ::: {.profile-section}
 
+::: {.profile-side}
+
 ![](profile.png){.profile-photo fig-alt="Terrence Roh"}
+
+<div class="contact-links">
+<a href="mailto:troh@mit.edu" title="Email" aria-label="Email">&#9993;</a>
+<a href="https://github.com/troh" title="GitHub" aria-label="GitHub">&#128187;</a>
+<a href="https://polisci.mit.edu/people/terrence-roh" title="MIT Profile" aria-label="MIT Profile">&#127891;</a>
+<a href="https://www.linkedin.com/in/terrence-roh/" title="LinkedIn" aria-label="LinkedIn">&#128101;</a>
+</div>
+
+:::
 
 ::: {.profile-text}
 
@@ -18,18 +29,11 @@ PhD Candidate, MIT Political Science
 ::: {.bio}
 I am a PhD candidate in the Department of Political Science at the Massachusetts Institute of Technology (MIT) with subfields in Comparative Politics and Political Methodology. My research focuses on urban politics, informal institutions and identity politics in Latin America, with a methodological emphasis on causal inference, network analysis and measurement \& scaling.
 
-My dissertation project investigates how neighborhood networks affect people's capacity for collective action in urban peripheries. I argue that the fragmentation of neighborhood networks, measured by how localized residents' movements are, impede individuals' capacity to engage in broader collective action, leading to the underprovision of local public goods. My empirical strategy combines real-world human mobility data, survey methods embedded in Facebook/WhatsApp and a field intervention. I draw insights from my fieldwork in Latin America's megacities including Lima, Mexico City, São Paulo and Rio de Janeiro. My work has been supported by MIT Center for International Studies (CIS) and the Institute for Humane Studies (IHS).
+My dissertation project investigates how neighborhood networks affect people's capacity for collective action in urban peripheries. I argue that the fragmentation of neighborhood networks, measured by how localized residents' movements are in a neighborhood, impede individuals' capacity to engage in broader collective action resulting in the underprovision of key local public goods. My empirical strategy combines large-scale human mobility data, survey methods embedded in Facebook/WhatsApp and a real-world field intervention. I draw insights from my fieldwork in Latin America's megacities including Lima, Mexico City, São Paulo and Rio de Janeiro. My work has been supported by MIT Center for International Studies (CIS) and the Institute for Humane Studies (IHS).
 
-Prior to joining MIT, I earned a BA in Spanish and MA in Political Science from Seoul National University. I worked as a research intern at the United Nations ECLAC in Santiago, Chile.
+Prior to joining MIT, I worked as a research intern at the United Nations ECLAC in Santiago, Chile. I earned a BA in Spanish and MA in Political Science from Seoul National University.
+
 :::
-
-<div class="contact-links">
-<a href="mailto:troh@mit.edu">&#9993; troh[at]mit.edu</a>
-<a href="https://github.com/troh">&#128187; GitHub</a>
-<a href="https://polisci.mit.edu/people/terrence-roh">&#127891; Profile </a>
-<a href="https://www.linkedin.com/in/terrence-roh/">&#128101; LinkedIn</a>
-</div>
-
 
 :::
 

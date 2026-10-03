@@ -51,9 +51,17 @@ body {
   line-height: 1.75;
 }
 
+/* Photo + contact icons column */
+.profile-side {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 /* Contact icons row */
 .contact-links {
   display: flex;
+  justify-content: center;
   gap: 1.2rem;
   margin-top: 1rem;
   flex-wrap: wrap;
@@ -62,11 +70,19 @@ body {
 .contact-links a {
   color: #555;
   text-decoration: none;
-  font-size: 0.95rem;
+  font-size: 1.5rem;
   display: flex;
   align-items: center;
   gap: 0.35rem;
   transition: color 0.2s;
+}
+
+/* Quarto wraps the links in a <p>; lay that out as the row */
+.contact-links p {
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  margin: 0;
 }
 
 .contact-links a:hover {
@@ -148,6 +164,10 @@ h3 {
     flex-direction: column;
     align-items: center;
     text-align: center;
+  }
+
+  .profile-text {
+    width: 100%;
   }
 
   .profile-photo {
